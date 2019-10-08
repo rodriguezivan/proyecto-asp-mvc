@@ -1,4 +1,4 @@
-namespace CoreEscuela.Entidades
+namespace Proyecto_ASP.NET.Models
 {
     public interface ILugar
     {
