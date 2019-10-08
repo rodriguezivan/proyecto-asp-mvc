@@ -8,9 +8,14 @@ namespace Proyecto_ASP.NET.Controllers
 
         public IActionResult Index() {
             var escuela = new Escuela();
+
             escuela.AñoDeCreación = 2005;
             escuela.UniqueId = Guid.NewGuid().ToString();
             escuela.Nombre = "Platzi School";
+            escuela.Dirección = "Avd. Principal, 220";
+            escuela.Ciudad = "Ciudad de Córdoba";
+            escuela.Pais = "Argentina";
+            escuela.TipoEscuela = TiposEscuela.Secundaria;
 
             return View(escuela);
         }
