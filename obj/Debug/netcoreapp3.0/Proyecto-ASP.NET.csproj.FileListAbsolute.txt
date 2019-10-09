@@ -35,3 +35,6 @@ c:\Users\Ivan\Proyecto-ASP.NET\obj\Debug\netcoreapp3.0\Proyecto-ASP.NET.pdb
 C:\Users\Ivan\Proyecto-ASP.NET\obj\Debug\netcoreapp3.0\Proyecto-ASP.NET.csproj.CopyComplete
 c:\Users\Ivan\Proyecto-ASP.NET\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
 c:\Users\Ivan\Proyecto-ASP.NET\obj\Debug\netcoreapp3.0\Razor\Views\Asignatura\Index.cshtml.g.cs
+c:\Users\Ivan\Proyecto-ASP.NET\obj\Debug\netcoreapp3.0\Razor\Views\Shared\ObjetoEscuelaSimple.cshtml.g.cs
+c:\Users\Ivan\Proyecto-ASP.NET\obj\Debug\netcoreapp3.0\Razor\Views\Alumno\Index.cshtml.g.cs
+c:\Users\Ivan\Proyecto-ASP.NET\obj\Debug\netcoreapp3.0\Razor\Views\Alumno\Listado.cshtml.g.cs
